@@ -1,4 +1,4 @@
-#🚀 **Featured Projects**📊 **Retail Sales Optimizer**
+# **🚀Featured Projects**📊 **Retail Sales Optimizer**
 
 Live Demo
 Code
