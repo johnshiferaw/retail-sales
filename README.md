@@ -23,7 +23,7 @@ This project is designed to optimize retail sales by analyzing sales data, ident
 
     Visualization of key metrics with charts and graphs
 
-#####🔧 ** How to Run Locally**
+##### **🔧How to Run Locally**
 ```bash
 git clone https://github.com/johnshiferaw/retail-sales.git
 cd retail-sales
@@ -34,4 +34,4 @@ streamlit run sales-app.py
     User-friendly interface for input and reports (if applicable)
 **Tech**: Python, SQL, Streamlit, Plotly
 
-📫 **Let’s connect** : [LinkedIn](https://www.linkedin.com/in/yohannes-shiferaw-107231360) | [gmail](mailto:yohannesshiferawameha@gmail.com)
+**📫Let’s connect**: [LinkedIn](https://www.linkedin.com/in/yohannes-shiferaw-107231360) | [gmail](mailto:yohannesshiferawameha@gmail.com)
