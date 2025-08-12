@@ -11,7 +11,7 @@ Code
 
 This project is designed to optimize retail sales by analyzing sales data, identifying trends, and providing actionable recommendations to increase revenue and improve inventory management.
 
-####🌟 **Features**
+#### **🌟Features**
 
     Data preprocessing and cleaning
 
@@ -29,9 +29,9 @@ git clone https://github.com/johnshiferaw/retail-sales.git
 cd retail-sales
 pip install -r requirements.txt
 streamlit run sales-app.py
-'''
+```
 
-    User-friendly interface for input and reports (if applicable)
+**User-friendly interface for input and reports (if applicable)**
 **Tech**: Python, SQL, Streamlit, Plotly
 
-**📫Let’s connect**: [LinkedIn](https://www.linkedin.com/in/yohannes-shiferaw-107231360) | [gmail](mailto:yohannesshiferawameha@gmail.com)
+📫**Let’s connect**: [LinkedIn](https://www.linkedin.com/in/yohannes-shiferaw-107231360) | [gmail](mailto:yohannesshiferawameha@gmail.com)
